@@ -23,7 +23,7 @@ It also proivide option to trace the reflection in half scale (0.25 scale has al
 
 In Unity 6, I also make it support render graph API.
 So the shader can run either on compatible mode or the new render graph.
-With render graph enable, we can also use the STP (Spatial-Temporal Postprocessing) to downscale the native render scale. This way it imporve performance by a lot.
+With render graph enable, we can also use the STP (Spatial-Temporal Postprocessing) to downscale the native render scale. This way it improve performance by a lot.
 
 ![{3EDF0B1A-939A-4142-A76A-3EE6E5CF391A}](https://github.com/user-attachments/assets/77bc82df-16ba-4af8-b1d0-d5d190c17c8f)
 ![{672BBA13-F723-48CF-A1C4-36DD1526EE9E}](https://github.com/user-attachments/assets/e9b94cde-2101-43ac-a713-98d7f8a417df)
